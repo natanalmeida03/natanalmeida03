@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### I’m currently learning **C++, JavaScript, HTML / CSS**
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css)](https://skillicons.dev)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NATANGOATOSO)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **NATANGOATOSO/NATANGOATOSO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
