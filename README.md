@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### I’m currently learning **C++, JavaScript, HTML / CSS**
+### TOOLS
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,angular,python,github,git)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NATANGOATOSO)](https://github.com/anuraghazra/github-readme-stats)
 
