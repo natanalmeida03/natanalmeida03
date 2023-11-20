@@ -4,7 +4,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,html,css,angular,python,github,git)](https://skillicons.dev)
 
-https://github.com/NATANGOATOSO/competitive-programminghttps://github.com/NATANGOATOSO/competitive-programminghttps://github.com/NATANGOATOSO/competitive-programming
+[COMPETITIVE-PROGRAMMING](https://github.com/NATANGOATOSO/competitive-programming)
+[UnB](https://github.com/NATANGOATOSO/UnB)
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NATANGOATOSO)](https://github.com/anuraghazra/github-readme-stats)
 
