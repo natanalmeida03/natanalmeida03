@@ -16,7 +16,7 @@ PROGRAMADOR COMPETITIVO
 
 ## LINGUAGENS E FERRAMENTAS
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,html,css,angular,python,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,html,css,python,github,git)](https://skillicons.dev)
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NATANGOATOSO)](https://github.com/anuraghazra/github-readme-stats)
