@@ -16,7 +16,7 @@ PROGRAMADOR COMPETITIVO
 
 ## LINGUAGENS E FERRAMENTAS
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,python,github,git,vscode)](https://github.com/NATANGOATOSO)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,python,github,git,vscode)](https://github.com/NATANGOATOSO)
 
 ## CONTATO
 
