@@ -20,7 +20,7 @@ PROGRAMADOR COMPETITIVO
 
 ## CONTATO
 
-[![Contato](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/natan-almeida-42b22728a/)
+[![Contato](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/natanalmeida03)
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/NatanGoatoso)
 
 <!--
