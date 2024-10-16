@@ -1,5 +1,7 @@
 ## ❤️ OLÁ, NATAN!!
 
+![](https://komarev.com/ghpvc/?username=natanalmeida03&color=red)
+
 ## SOBRE
 ```
 NOME: NATAN ALMEIDA
