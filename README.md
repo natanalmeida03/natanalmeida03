@@ -3,6 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=natanalmeida03&color=red)
 
 ## SOBRE
+
+[SITE PESSOAL](https://natangts.dev)
+
 ```
 NOME: NATAN ALMEIDA
 
@@ -18,7 +21,7 @@ PROGRAMADOR COMPETITIVO
 
 ## LINGUAGENS E FERRAMENTAS
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,python,github,git,vscode)](https://github.com/NATANGOATOSO)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,python,github,git,vscode,php)](https://github.com/NATANGOATOSO)
 
 ## CONTATO
 
