@@ -4,7 +4,7 @@
 
 ## SOBRE
 
-[SITE PESSOAL](https://natangts.dev)
+[SITE PESSOAL](https://im.natan.sh)
 
 ```
 NOME: NATAN ALMEIDA
@@ -21,16 +21,17 @@ PROGRAMADOR COMPETITIVO
 
 ## LINGUAGENS E FERRAMENTAS
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,python,github,git,vscode,php)](https://github.com/NATANGOATOSO)
+[![My Skills](https://skillicons.dev/icons?i=cpp,ts,nextjs,cypress,python,php,mysql,supabase)](https://github.com/NATANGOATOSO)
 
 ## CONTATO
 
 [![Contato](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/natanalmeida03)
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/NatanGoatoso)
 
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NATANGOATOSO)](https://github.com/anuraghazra/github-readme-stats)
 
+![Default Github Stats Card](https://pixel-profile.vercel.app/api/github-stats?username=natanalmeida03)
+
+<!--
 **NATANGOATOSO/NATANGOATOSO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
