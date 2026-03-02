@@ -21,7 +21,7 @@ PROGRAMADOR COMPETITIVO
 
 ## LINGUAGENS E FERRAMENTAS
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,ts,nextjs,cypress,python,php,mysql,supabase,spring)](https://github.com/NATANGOATOSO)
+[![My Skills](https://skillicons.dev/icons?i=cpp,ts,nextjs,cypress,python,php,mysql,supabase,spring,laravel)](https://github.com/NATANGOATOSO)
 
 ## CONTATO
 
