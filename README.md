@@ -6,6 +6,7 @@
 
 [SITE PESSOAL](https://im.natan.sh)
 
+
 ```
 NOME: NATAN ALMEIDA
 
@@ -28,6 +29,7 @@ PROGRAMADOR COMPETITIVO
 [![Contato](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/natanalmeida03)
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/NatanGoatoso)
 
+[CodeForces](https://codeforces.com/profile/NatanAlmeida)
 
 ![Default Github Stats Card](https://pixel-profile.vercel.app/api/github-stats?username=natanalmeida03)
 
